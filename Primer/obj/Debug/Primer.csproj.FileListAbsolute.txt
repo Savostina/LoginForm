@@ -1,0 +1,16 @@
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.csprojAssemblyReference.cache
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.Forms.Login.resources
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.Properties.Resources.resources
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.csproj.GenerateResource.cache
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.csproj.CoreCompileInputs.cache
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\Primer.exe.config
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\Primer.exe
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\Primer.pdb
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\EntityFramework.dll
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\EntityFramework.xml
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DemoExUser4\Desktop\Primer\Primer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.csproj.CopyComplete
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.exe
+C:\Users\DemoExUser4\Desktop\Primer\Primer\obj\Debug\Primer.pdb
